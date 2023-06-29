@@ -29,6 +29,8 @@
       <img
         src="https://media.tenor.com/a6S35wgiCOsAAAAC/deku-java.gif"
         align="right"
+        width="350.5px"
+      height="150.5px"
       />
     </p>
   </div>

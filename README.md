@@ -23,7 +23,7 @@
   </div>
   <div>
     <h2 align="left" style="font-size: 24px">
-                        ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~
+     ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~
     </h2>
     <p>
       <img

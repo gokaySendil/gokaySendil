@@ -11,8 +11,8 @@
     <img
       src="https://s1.zerochan.net/Silver.Wolf.600.3967470.jpg"
       align="right"
-      width="173.5px"
-      height="308.5px"
+      width="170px"
+      height="300px"
     />
     <li><b>Name:</b> Gökay Şendil</li>
     <li><b>Loves:</b> Coding&Games</li>

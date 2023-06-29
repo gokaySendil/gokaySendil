@@ -69,11 +69,11 @@
       height="208.5px"
     />
     <br />
-    <p align="left">
+    <p align="center">
        Some of my <br />
       most used socials
     </p>
-    <p align="left">
+    <p align="center">
       <a href="389126281611968534" target="_blank"
         ><img
           src="https://img.shields.io/badge/Gokai%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"

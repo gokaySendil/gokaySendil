@@ -7,7 +7,7 @@
   </div>
   <br />
   <div>
-    <h2 align="center">🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊</h2>
+    <h2 align="left">🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊</h2>
     <img
       src="https://s1.zerochan.net/Silver.Wolf.600.3967470.jpg"
       align="right"

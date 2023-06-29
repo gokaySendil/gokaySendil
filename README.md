@@ -69,7 +69,7 @@
       height="208.5px"
     />
     <br />
-    <p align="center">
+    <p align="left">
        Some of my <br />
       most used socials
     </p>

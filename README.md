@@ -61,7 +61,7 @@
       but for now mainly focuing on frontend to improve my CSS skills.
     </p>
     <br />
-    <h2>                    ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ </h2>
+    <h2>~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~</h2>
     <img
       src="https://i.imgur.com/KXx0cCx.gif"
       align="right"
@@ -73,7 +73,7 @@
        Some of my <br />
       most used socials
     </p>
-    <p align="center">
+    <p align="left">
       <a href="389126281611968534" target="_blank"
         ><img
           src="https://img.shields.io/badge/Gokai%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"

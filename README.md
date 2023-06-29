@@ -7,7 +7,7 @@
   </div>
   <br />
   <div>
-    <h2 align="left">🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊</h2>
+    <h2 align="left"> ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ </h2>
     <img
       src="https://s1.zerochan.net/Silver.Wolf.600.3967470.jpg"
       align="right"
@@ -23,7 +23,7 @@
   </div>
   <div>
     <h2 align="left" style="font-size: 24px">
-     ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~
+     ~  𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮  ~
     </h2>
     <p>
       <img
@@ -61,7 +61,7 @@
       but for now mainly focuing on frontend to improve my CSS skills.
     </p>
     <br />
-    <h2>                   📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
+    <h2>                    ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ </h2>
     <img
       src="https://i.imgur.com/KXx0cCx.gif"
       align="right"

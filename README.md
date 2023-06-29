@@ -30,7 +30,7 @@
         src="https://media.tenor.com/a6S35wgiCOsAAAAC/deku-java.gif"
         align="right"
         width="350.5px"
-      height="170.5px"
+      height="200.5px"
       />
     </p>
   </div>
@@ -70,7 +70,7 @@
     />
     <br />
     <p align="center">
-      Hewe awe some of my <br />
+       Some of my <br />
       most used socials
     </p>
     <p align="center">

@@ -57,8 +57,7 @@
       />
       <br /><br />
       I started learning frontend directly with React Js but now studying
-      vanilla Js to power up my basics.My goal is writing full stack web apps
-      but for now mainly focuing on frontend to improve my CSS skills.
+      vanilla Js to power up my basics.My goal is writing full stack web apps.
     </p>
     <br />
   </div>
